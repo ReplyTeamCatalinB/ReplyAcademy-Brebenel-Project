@@ -1,0 +1,5 @@
+name=Windows 7
+type=windows
+noOfProcessors = 4
+app001=app001.txt
+app002=app002.txt
